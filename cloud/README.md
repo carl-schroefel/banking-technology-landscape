@@ -35,16 +35,19 @@ DORA
 
 ## 🔍 Deep Dives
 
-This section will gradually cover:
+### ☁️ Cloud Governance
 
-- Cloud architecture in regulated banking environments
-- Azure and AWS in banking
-- Landing zones and cloud governance
-- IAM and privileged access
-- Kubernetes and container platforms
-- DORA and cloud providers
-- Exit strategies and concentration risk
-- Operational resilience
+[**Cloud Governance in Banking →**](./cloud-governance.md)
+
+How landing zones, security, governance, third-party risk and operational resilience connect in regulated banking environments.
+
+### 🔜 Next Topics
+
+- Azure & AWS in Banking
+- IAM & Privileged Access
+- Kubernetes & Container Platforms
+- DORA & Cloud Providers
+- Exit Strategies & Concentration Risk
 
 ---
 
