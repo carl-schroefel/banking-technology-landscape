@@ -20,7 +20,7 @@ How traditional banking platforms connect with modern digital services and archi
 
 From payment infrastructure and messaging standards to modern real-time payment architectures.
 
-### ☁️ Cloud & Infrastructure
+### ☁️ [Cloud & Infrastructure](./cloud/README.md)
 `Microsoft Azure` `AWS` `Kubernetes` `Containers` `Platform Engineering` `Hybrid Cloud`
 
 Cloud adoption in banking is not only a technology question. Resilience, security, governance and regulatory requirements shape architecture decisions.
